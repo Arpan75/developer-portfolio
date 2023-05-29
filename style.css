@@ -12,7 +12,7 @@ h1 {
 }
 
 /* 1st header section */
-section {
+.flexible-container {
     display: flex;
 }
 
